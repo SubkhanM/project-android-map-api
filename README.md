@@ -63,4 +63,3 @@ mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(lokasi, 15));
 
 ## Lisensi
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).  
-```
