@@ -16,12 +16,12 @@ Proyek ini adalah aplikasi Android yang menggunakan Google Maps API untuk menamp
 ## Prasyarat
 1. Android Studio terbaru (versi apa saja yang kompatibel dengan proyek).  
 2. Kunci API Google Maps.  
-3. Perangkat fisik atau emulator Android.  
+3. Android Studio JAVA/KOTLIN 
 
 ## Cara Menggunakan
 1. **Clone repositori:**
    ```bash
-   git clone https://github.com/username/maps-api-project.git
+   git clone https://github.com/SubkhanM/maps-api-project.git
    cd maps-api-project
    ```
 2. **Tambahkan kunci API Google Maps:**  
@@ -64,5 +64,3 @@ mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(lokasi, 15));
 ## Lisensi
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).  
 ```
-
-Pastikan untuk mengganti placeholder seperti `username` dan `YOUR_API_KEY` dengan data aktual.
