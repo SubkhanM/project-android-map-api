@@ -59,7 +59,7 @@ mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(lokasi, 15));
 ```
 
 ## Kontributor
-- [Nama Anda](https://github.com/username)  
+- [Nama Anda](https://github.com/SubkhanM)  
 
 ## Lisensi
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).  
